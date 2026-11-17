@@ -7,7 +7,7 @@ Model dijalankan langsung di HP pengguna (offline) dengan whisper.cpp; rekaman t
 
 | File | Ukuran | SHA-256 |
 |---|---|---|
-| `ggml-base-ar-quran-q5_0.bin` | 55.295.433 byte | `fca5a052a94718a4fed09e52b4a88b4a434987e6fb0d5f08965550dd8fc55db9` |
+| `ggml-base-ar-quran-q5_0.bin` | 55.295.433 byte | `1eb6255686651cb496e7ef52bc15c4f4f3fe197af6eea40eeb60e9f212a96950` |
 
 ## Asal model
 
