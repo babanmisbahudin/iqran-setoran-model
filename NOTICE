@@ -1,0 +1,13 @@
+iqran-setoran-model
+
+This repository redistributes a converted and quantized copy of
+"whisper-base-ar-quran" by Tarteel AI
+(https://huggingface.co/tarteel-ai/whisper-base-ar-quran),
+licensed under the Apache License, Version 2.0.
+
+That model is a fine-tune of "whisper-base" by OpenAI
+(https://huggingface.co/openai/whisper-base), released under the MIT License.
+
+Modifications: converted from Hugging Face format to ggml using whisper.cpp's
+convert-h5-to-ggml.py (with n_text_ctx taken from max_target_positions), and
+quantized to q5_0. No retraining was performed.
